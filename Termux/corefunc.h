@@ -21,10 +21,10 @@ using namespace std;
 using json = nlohmann::json;
 
 #pragma once
-string Growid_acc = "upybomberpros";
-string Password_acc = "Upydabest123.";
-string Gmail_acc = "upydababyprook";
-string gameVersion = "4.25";
+string Growid_acc = "Spambecka51";
+string Password_acc = "@zerobot048";
+string Gmail_acc = "upshiwha";
+string gameVersion = "3.86";
 int START_ACC = 1;
 int START_GMAIL = 1;
 
